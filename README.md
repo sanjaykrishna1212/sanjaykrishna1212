@@ -1,6 +1,5 @@
-
 <p align="center" >
-  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
-    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
+    <img width="450px" src="https://cdn.jsdelivr.net/gh/sanjaykrishna1212/terminal-stats@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
 </p>
+
+ 
